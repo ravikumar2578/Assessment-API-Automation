@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Extramarks API Suite | Assessment APIs" parallel="classes" thread-count="1">
+    <test name="Extramarks API Regression Test | Assessment APIs">
+        <groups>
+            <run>
+                <exclude name="excludeTag"></exclude>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.extramarks.assessment.apis.tests.*"> </package>
+            <package name="com.extramarks.assessment.apis.tests.UserFlowsTestCases.*"> </package>
+        </packages>
+    </test>
+
+    <listeners>
+        <listener class-name="com.extramarks.foundation.customreporter.AllureReporter"></listener>
+        <listener class-name="com.extramarks.foundation.listeners.SuiteListener"></listener>
+    </listeners>
+</suite>
