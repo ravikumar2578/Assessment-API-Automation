@@ -143,7 +143,7 @@
             <artifactId>extramarks-api-automation</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>system</scope>
-            <systemPath>/home/extramarks/Desktop/EM_API_Automation/extramarks-api-automation/target/extramarks-api-automation-1.0-SNAPSHOT.jar</systemPath>
+            <systemPath>target/extramarks-api-automation-1.0-SNAPSHOT.jar</systemPath>
             <type>jar</type>
         </dependency>
 
