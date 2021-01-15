@@ -23,6 +23,7 @@
     </properties>
 
     <dependencies>
+
         <dependency>
             <groupId>org.jsoup</groupId>
             <artifactId>jsoup</artifactId>
@@ -137,21 +138,22 @@
             <version>${aspectj.version}</version>
         </dependency>
 
-<!--        This is for external framework jar-->
+        <!--This is for external framework jar-->
         <dependency>
             <groupId>com.extramarks</groupId>
             <artifactId>extramarks-api-automation</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>system</scope>
-<!--            <systemPath>/home/extramarks/Desktop/EM_API_Automation/extramarks-api-automation/target/extramarks-api-automation-1.0-SNAPSHOT.jar</systemPath>-->
             <systemPath>${project.basedir}/src/main/java/utils/apicode/extramarks-api-automation-1.0-SNAPSHOT.jar</systemPath>
             <type>jar</type>
         </dependency>
+
     </dependencies>
 
     <build>
         <pluginManagement>
             <plugins>
+
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-compiler-plugin</artifactId>
@@ -182,6 +184,7 @@
                         </dependency>
                     </dependencies>
                 </plugin>
+
             </plugins>
         </pluginManagement>
     </build>
