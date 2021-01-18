@@ -2,10 +2,22 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
 <suite name="Extramarks API Suite | Assessment APIs" parallel="classes" thread-count="1">
-    <test name="Extramarks API Regression Test | Assessment APIs">
+    <test name="Assessment APIs | Functional Testing Suite">
         <groups>
             <run>
-                <exclude name="excludeTag"></exclude>
+                <include name="functional"></include>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.extramarks.assessment.apis.tests.*"> </package>
+            <package name="com.extramarks.assessment.apis.tests.UserFlowsTestCases.*"> </package>
+        </packages>
+    </test>
+
+    <test name="Assessment APIs | Smoke Testing Suite">
+        <groups>
+            <run>
+               <include name="smoke"></include>
             </run>
         </groups>
         <packages>
