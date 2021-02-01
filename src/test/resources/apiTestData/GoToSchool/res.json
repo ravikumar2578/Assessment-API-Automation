@@ -1,0 +1,254 @@
+{
+    "status": 1,
+    "live_sessions": [],
+    "worksheets": {
+        "total_assigned_worksheets": "69",
+        "submitted_worksheets": "0",
+        "pending_worksheets": "69",
+        "isnew_worksheets": "1"
+    },
+    "home_works": {
+        "total_assigned_homeworks": "131",
+        "submitted_homeworks": "0",
+        "pending_homeworks": "131",
+        "isnew_homeworks": "1"
+    },
+    "weekly_test_info": {
+        "component_id": "10",
+        "is_proctoring_enabled": 0,
+        "component_name": "Weekly Test",
+        "component_tagline": "Judge your Preparation",
+        "start_timer_sec": "-1",
+        "end_timer_sec": "-1",
+        "paper_name": "",
+        "assign_auto_id": "0",
+        "test_paper_id": "0",
+        "paper_duration": "0",
+        "currentTime": "2021-02-02 01:20:18",
+        "start_date": "",
+        "end_date": "",
+        "subject_id": "0",
+        "total_test_submitted": "0"
+    },
+    "school_adaptive_test": {
+        "component_id": "36",
+        "component_name": "School Adaptive Test",
+        "component_tagline": "Judge your Preparation",
+        "start_timer_sec": "-1",
+        "end_timer_sec": "-1",
+        "paper_name": "",
+        "assign_auto_id": "",
+        "test_paper_id": "",
+        "paper_duration": "",
+        "currentTime": "2021-02-02 01:20:18",
+        "start_date": "",
+        "end_date": "",
+        "subject_id": 0,
+        "total_test_submitted": "0",
+        "instructions_title": "Adaptive tests are designed to adjust to the performance of the test examinee/student.\\r\\nThese tests match the knowledge and the ability of the test taker, basis the responses provided.\\r\\n",
+        "instructions_list": "If a student answers correctly, the next question pushed is more difficult.\\r\\nIf a student answers wrong, the next question pushed is easier. \\r\\nStudent can not skipp the question."
+    },
+    "assessment_tests": [
+        {
+            "component_id": "38",
+            "component_name": "Instant Test",
+            "component_tagline": "School Instant Test",
+            "test_title": "",
+            "start_timer_sec": "-1",
+            "end_timer_sec": "-1",
+            "paper_name": "",
+            "assign_auto_id": "0",
+            "test_paper_id": "0",
+            "paper_duration": "0",
+            "currentTime": "2021-02-02 01:20:18",
+            "start_date": "",
+            "end_date": "",
+            "subject_id": "0",
+            "total_test_submitted": "0"
+        },
+        {
+            "component_id": "1",
+            "component_name": "Chapter Test",
+            "component_tagline": "School Chapter Test",
+            "test_title": "",
+            "start_timer_sec": "-1",
+            "end_timer_sec": "-1",
+            "paper_name": "",
+            "assign_auto_id": "0",
+            "test_paper_id": "0",
+            "paper_duration": "0",
+            "currentTime": "2021-02-02 01:20:18",
+            "start_date": "",
+            "end_date": "",
+            "subject_id": "0",
+            "total_test_submitted": "0"
+        }
+    ],
+    "school_practice_test": {
+        "component_id": "6",
+        "component_name": "School Practice Test",
+        "component_tagline": "Judge your Preparation",
+        "start_timer_sec": "-1",
+        "end_timer_sec": "5006381",
+        "paper_name": "aaaaa",
+        "assign_auto_id": "108555",
+        "test_paper_id": "78903",
+        "paper_duration": "10",
+        "currentTime": "2021-02-02 01:20:18",
+        "start_date": "2020-10-11 19:06:10",
+        "end_date": "2021-03-31 23:59:59",
+        "subject_id": "177",
+        "total_test_submitted": "0"
+    },
+    "session_subject_list": [],
+    "recorded_subject_list": [
+        {
+            "subject_id": "171",
+            "subject_name": "Social Science",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/42.png",
+            "color_code": "#ee5b13",
+            "is_custom_rack": "0"
+        },
+        {
+            "subject_id": "176",
+            "subject_name": "Mathematics",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/46.png",
+            "color_code": "#fd9021",
+            "is_custom_rack": "0"
+        },
+        {
+            "subject_id": "177",
+            "subject_name": "Science",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/47.png",
+            "color_code": "#e26484",
+            "is_custom_rack": "0"
+        },
+        {
+            "subject_id": "182",
+            "subject_name": "English",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/38.png",
+            "color_code": "#573ddd",
+            "is_custom_rack": "0"
+        },
+        {
+            "subject_id": "206",
+            "subject_name": "हिंदी – अ",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/107.png",
+            "color_code": "#ed2546",
+            "is_custom_rack": "0"
+        },
+        {
+            "subject_id": "214",
+            "subject_name": "संस्कृत : व्याकरण",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/52.png",
+            "color_code": "#89451e",
+            "is_custom_rack": "0"
+        },
+        {
+            "subject_id": "310768",
+            "subject_name": "संस्कृत साहित्य",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/37822.png",
+            "color_code": "#89451e",
+            "is_custom_rack": "0"
+        },
+        {
+            "subject_id": "557202",
+            "subject_name": "Computer Applications",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/25962.png",
+            "color_code": "#004a95",
+            "is_custom_rack": "0"
+        }
+    ],
+    "referral_notes": {
+        "available_lectures_subject_list": [
+            {
+                "subject_id": "171",
+                "subject_name": "Social Science",
+                "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/42.png",
+                "color_code": "#ee5b13",
+                "is_custom_rack": "0"
+            },
+            {
+                "subject_id": "176",
+                "subject_name": "Mathematics",
+                "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/46.png",
+                "color_code": "#fd9021",
+                "is_custom_rack": "0"
+            },
+            {
+                "subject_id": "177",
+                "subject_name": "Science",
+                "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/47.png",
+                "color_code": "#e26484",
+                "is_custom_rack": "0"
+            },
+            {
+                "subject_id": "182",
+                "subject_name": "English",
+                "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/38.png",
+                "color_code": "#573ddd",
+                "is_custom_rack": "0"
+            },
+            {
+                "subject_id": "203",
+                "subject_name": "हिंदी – ब",
+                "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/110.png",
+                "color_code": "#ed2546",
+                "is_custom_rack": "0"
+            },
+            {
+                "subject_id": "206",
+                "subject_name": "हिंदी – अ",
+                "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/107.png",
+                "color_code": "#ed2546",
+                "is_custom_rack": "0"
+            },
+            {
+                "subject_id": "214",
+                "subject_name": "संस्कृत : व्याकरण",
+                "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/52.png",
+                "color_code": "#89451e",
+                "is_custom_rack": "0"
+            },
+            {
+                "subject_id": "557202",
+                "subject_name": "Computer Applications",
+                "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/25962.png",
+                "color_code": "#004a95",
+                "is_custom_rack": "0"
+            }
+        ],
+        "recent_lecture": [
+            {
+                "master_video_id": "621849",
+                "container_video_id": "621096",
+                "video_id": "621849",
+                "title": "smoke2701",
+                "faculty_id": "1t1@gmail.com",
+                "faculty_name": "GTS Teacher",
+                "lecture_date_time": "27th Jan, 21, 09:12 PM",
+                "lecture_date_time_ios": "2021-01-27 21:12:17",
+                "video_rating": "5",
+                "video_type": "2",
+                "video_path": "https://cdngotoschool.extramarks.com/2021/01/27/Video_60118a183e105.mp4",
+                "content_type": "mp4",
+                "notes": [
+                    {
+                        "lecture_note_path": "https://cdngotoschool.extramarks.com/2021/01/27/dummy_60118a18b12d8.pdf",
+                        "lecture_note_extension": "pdf"
+                    }
+                ],
+                "web_file_path": "",
+                "mob_file_path": "",
+                "tab_file_path": "",
+                "subject_id": "557202",
+                "subject_name": "Computer Applications",
+                "color": "#004a95",
+                "is_custom_rack": "0",
+                "language_id": "1",
+                "language_name": "English",
+                "other_language": []
+            }
+        ]
+    }
+}
