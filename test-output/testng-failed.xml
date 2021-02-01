@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.extramarks.assessment.apis.tests.SubjectWiseLiveSessionList.SubjectWiseLiveSessionListTest">
+      <class name="com.extramarks.assessment.apis.tests.GetSchedulesByClass.GetSchedulesByClassTest">
         <methods>
           <include name="setAllureEnvironment"/>
-          <include name="SubjectWiseLiveSessionListTest_TC001"/>
+          <include name="GetSchedulesByClassTest_TC001"/>
         </methods>
-      </class> <!-- com.extramarks.assessment.apis.tests.SubjectWiseLiveSessionList.SubjectWiseLiveSessionListTest -->
+      </class> <!-- com.extramarks.assessment.apis.tests.GetSchedulesByClass.GetSchedulesByClassTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,6 @@
+{
+    "status": "0",
+    "action": "get_schedules_by_class",
+    "message": "No live class found.",
+    "live_class_data": []
+}

@@ -9,10 +9,31 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">Default suite</th></tr>
-<tr><td><a href="#t0">Default test</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">3,984</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Default test</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">3,910</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.extramarks.assessment.apis.tests.PracticeTestSubjectPaperList.PracticeTestSubjectPaperListTest</td><td><a href="#m0">PracticeTestSubjectPaperListTest_TC001</a></td><td rowspan="1">1612217271019</td><td rowspan="1">3805</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.extramarks.assessment.apis.tests.GetSchedulesByClass.GetSchedulesByClassTest</td><td><a href="#m0">GetSchedulesByClassTest_TC001</a></td><td rowspan="1">1612218570825</td><td rowspan="1">3749</td></tr></tbody>
 </table>
-<h2>Default test</h2><h3 id="m0">com.extramarks.assessment.apis.tests.PracticeTestSubjectPaperList.PracticeTestSubjectPaperListTest#PracticeTestSubjectPaperListTest_TC001</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Default test</h2><h3 id="m0">com.extramarks.assessment.apis.tests.GetSchedulesByClass.GetSchedulesByClassTest#GetSchedulesByClassTest_TC001</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [1] but found [0]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at org.testng.Assert.assertEquals(Assert.java:639)
+	at com.extramarks.assessment.apis.tests.GetSchedulesByClass.GetSchedulesByClassTest.assertSuccessResponse(GetSchedulesByClassTest.java:49)
+	at com.extramarks.assessment.apis.tests.GetSchedulesByClass.GetSchedulesByClassTest.GetSchedulesByClassTest_TC001(GetSchedulesByClassTest.java:39)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+	at org.testng.internal.InvokeMethodRunnable.runOne(InvokeMethodRunnable.java:45)
+	at org.testng.internal.InvokeMethodRunnable.call(InvokeMethodRunnable.java:73)
+	at org.testng.internal.InvokeMethodRunnable.call(InvokeMethodRunnable.java:11)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>
