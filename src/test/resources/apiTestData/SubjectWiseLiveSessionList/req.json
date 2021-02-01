@@ -1,0 +1,14 @@
+{    "user_id": "10655762",
+    "student_type": "2",
+    "board_id": "180",
+    "class_id": "36",
+    "subject_id": "176",
+    "is_custom_rack": "0",
+    "action": "get_schedule_classes_v2_school",
+    "school_id": 37137,
+    "section_id": 1,
+    "section_name": "A",
+    "timezone": "Asia/Kolkata",
+    "video_category": 1,
+    "checksum": "f6ac6c3e90751f27f36747340c2c6342"
+}

@@ -1,0 +1,62 @@
+{
+    "status": "1",
+    "user_id": "10655762",
+    "subject_id": "176",
+    "subject_name": "new subject",
+    "subject_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+    "color_code": "#FE7B35",
+    "subject_list": [
+        {
+            "subject_video": [
+                {
+                    "master_video_id": "85255",
+                    "container_video_id": "85285",
+                    "entry_status": "1",
+                    "joined_at": "",
+                    "video_id": "85255",
+                    "title": "27 J Recorded 002",
+                    "faculty_id": "1t1@gmail.com",
+                    "faculty_name": "GTS Teacher",
+                    "lecture_date_time": "27th Jun, 20, 02:28 AM",
+                    "lecture_date_time_ios": "2020-06-27 02:28:00",
+                    "video_rating": "5",
+                    "video_type": "2",
+                    "video_path": "https://cdngotoschool.extramarks.com/2020/06/27/5ef6600d6a7af.mp4",
+                    "pdf_path": "https://cdngotoschool.extramarks.com/2020/06/27/5ef6600eeca72.png",
+                    "pdf_path_extension": "png",
+                    "web_file_path": "",
+                    "mob_file_path": "",
+                    "tab_file_path": "",
+                    "language_id": "1",
+                    "language_name": "English",
+                    "leaf_rack_info": [],
+                    "other_language": []
+                },
+                {
+                    "master_video_id": "66571",
+                    "container_video_id": "66601",
+                    "entry_status": "1",
+                    "joined_at": "",
+                    "video_id": "66571",
+                    "title": "video test",
+                    "faculty_id": "1t1@gmail.com",
+                    "faculty_name": "Bharat Rana",
+                    "lecture_date_time": "5th Jun, 20, 08:27 PM",
+                    "lecture_date_time_ios": "2020-06-05 20:27:00",
+                    "video_rating": "5",
+                    "video_type": "2",
+                    "video_path": "https://cdngotoschool.extramarks.com/2020/06/05/3780213.mp4",
+                    "pdf_path": "https://cdngotoschool.extramarks.com/2020/06/05/5eda5ba5ba49e.pdf",
+                    "pdf_path_extension": "pdf",
+                    "web_file_path": "",
+                    "mob_file_path": "",
+                    "tab_file_path": "",
+                    "language_id": "1",
+                    "language_name": "English",
+                    "leaf_rack_info": [],
+                    "other_language": []
+                }
+            ]
+        }
+    ]
+}

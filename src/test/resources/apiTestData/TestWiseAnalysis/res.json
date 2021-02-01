@@ -1,0 +1,136 @@
+{
+    "status": "1",
+    "user_id": "10655762",
+    "weekly_test_id": "129229",
+    "paper_id": "89821",
+    "paper_name": "WT Load Test 26",
+    "paper_type": "Weekly Test",
+    "paper_start_time": "25th Nov 2020, 04:04 PM",
+    "paper_submit_time": "25th Nov 2020, 04:04 PM",
+    "subject_test_name": "Science",
+    "subject_name": "Science",
+    "subject_id": "177",
+    "score_info": {
+        "total_score": "5",
+        "score_obtained": "2",
+        "total_questions": "5",
+        "correct_que": "2",
+        "incorrect_que": "3",
+        "skipped_que": "0",
+        "total_attempted_questions": "5",
+        "total_correct": "2",
+        "time_taken": "0:16",
+        "answer_speed": "0:2"
+    },
+    "rank_info": [],
+    "question_wise_analysis": [
+        {
+            "total_question": "2",
+            "attempted_question": "2",
+            "correct_question": "0",
+            "wrong_questions": "2",
+            "skipped_questions": "0",
+            "title": "Remembering"
+        },
+        {
+            "total_question": "2",
+            "attempted_question": "2",
+            "correct_question": "1",
+            "wrong_questions": "1",
+            "skipped_questions": "0",
+            "title": "Understanding"
+        },
+        {
+            "total_question": "1",
+            "attempted_question": "1",
+            "correct_question": "1",
+            "wrong_questions": "0",
+            "skipped_questions": "0",
+            "title": "Applying"
+        }
+    ],
+    "chapter_wise_analysis": [
+        {
+            "chapter_name": "Sources of Energy",
+            "total_score": "1",
+            "score_obtained": "0",
+            "total_questions": "1",
+            "chapter_id": "1112",
+            "topic_detail": []
+        },
+        {
+            "chapter_name": "Life Processes",
+            "total_score": "1",
+            "score_obtained": "0",
+            "total_questions": "1",
+            "chapter_id": "1105",
+            "topic_detail": []
+        },
+        {
+            "chapter_name": "Chemical Reactions and Equations",
+            "total_score": "2",
+            "score_obtained": "1",
+            "total_questions": "2",
+            "chapter_id": "1102",
+            "topic_detail": []
+        },
+        {
+            "chapter_name": "Electricity",
+            "total_score": "1",
+            "score_obtained": "1",
+            "total_questions": "1",
+            "chapter_id": "1116",
+            "topic_detail": []
+        }
+    ],
+    "revise_chapter": [
+        {
+            "chapter_name": "Sources of Energy",
+            "percentage": "0",
+            "idle_time": "9:0 mins",
+            "time_taken": "0:1 mins",
+            "chapter_id": "1112"
+        },
+        {
+            "chapter_name": "Life Processes",
+            "percentage": "0",
+            "idle_time": "9:0 mins",
+            "time_taken": "0:7 mins",
+            "chapter_id": "1105"
+        },
+        {
+            "chapter_name": "Chemical Reactions and Equations",
+            "percentage": "50",
+            "idle_time": "18:0 mins",
+            "time_taken": "0:6 mins",
+            "chapter_id": "1102"
+        }
+    ],
+    "difficulty_wise_analysis": [
+        {
+            "question_difficulty": "m",
+            "question_status": "wrong",
+            "time_taken": "4"
+        },
+        {
+            "question_difficulty": "m",
+            "question_status": "right",
+            "time_taken": "2"
+        },
+        {
+            "question_difficulty": "e",
+            "question_status": "wrong",
+            "time_taken": "1"
+        },
+        {
+            "question_difficulty": "e",
+            "question_status": "right",
+            "time_taken": "2"
+        },
+        {
+            "question_difficulty": "e",
+            "question_status": "wrong",
+            "time_taken": "7"
+        }
+    ]
+}
