@@ -1,4 +1,4 @@
-package com.extrammarks.assessment.apis.tests.TestWiseAnalysis;
+package com.extramarks.assessment.apis.tests.PracticeTestSubjectList;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;
@@ -6,30 +6,32 @@ import io.qameta.allure.SeverityLevel;
 import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import com.extramarks.assessment.apis.TestWiseAnalysis.TestWiseAnalysis;
+
+import com.extramarks.assessment.apis.PracticeTestSubjectList.PracticeTestSubjectList;
 
 import utils.TestBase;
 import static io.qameta.allure.Allure.step;
 
-public class TestWiseAnalysisTest extends TestBase {
+public class PracticeTestSubjectListTest extends TestBase {
 
 	@Test(timeOut = 10000, groups = { "smoke" })
 	@Severity(SeverityLevel.CRITICAL)
-	@Description("TestWiseAnalysis | Happy Flow")
-	public void TestWiseAnalysisTest_TC001() throws Exception {
+	@Description("PracticeTestSubjectList | Happy Flow")
+	public void PracticeTestSubjectListTest_TC001() throws Exception {
 		step("Creating object of main class");
-		TestWiseAnalysis obj = new TestWiseAnalysis();
+		PracticeTestSubjectList obj = new PracticeTestSubjectList();
 
 		step("Url Parameters set up");
-		obj.getProperties().setProperty("weeklytest_Id", "129229");
 		obj.getProperties().setProperty("user_id", "10655762");
 		obj.getProperties().setProperty("student_type", "2");
-		obj.getProperties().setProperty("language_code", "01");
-		obj.getProperties().setProperty("paper_type", "10");
-		obj.getProperties().setProperty("action", "test_wise_analysis");
+		obj.getProperties().setProperty("board_id", "180");
+		obj.getProperties().setProperty("class_id", "36");
+		obj.getProperties().setProperty("action", "school_subject_list");
 		obj.getProperties().setProperty("school_id", "37137");
-		obj.getProperties().setProperty("timezone", "Asia/Kolkata");
-		obj.getProperties().setProperty("checksum", "9251b15654cb71ffc03d4a7a8759c48a");
+		obj.getProperties().setProperty("section_id", "1");
+		obj.getProperties().setProperty("section_name", "A");
+		obj.getProperties().setProperty("paper_type", "6");
+		obj.getProperties().setProperty("checksum", "c13075fdecee28a5264b0a22563ccf3b");
 
 		step("Hit the API");
 		Response res = obj.callAPI();
@@ -48,6 +50,7 @@ public class TestWiseAnalysisTest extends TestBase {
     }
 
 }
+
 
 
 

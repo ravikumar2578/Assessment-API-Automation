@@ -1,0 +1,29 @@
+{
+    "status": 1,
+    "subject_list": [
+        {
+            "subject_id": "171",
+            "subject_name": "Social Science",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/42.png",
+            "is_custom_rack": "0"
+        },
+        {
+            "subject_id": "176",
+            "subject_name": "Mathematics",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/46.png",
+            "is_custom_rack": "0"
+        },
+        {
+            "subject_id": "177",
+            "subject_name": "Science",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/47.png",
+            "is_custom_rack": "0"
+        },
+        {
+            "subject_id": "557202",
+            "subject_name": "Computer Applications",
+            "subject_icon": "http://stagelearning2.extramarks.com/icon/resources/25962.png",
+            "is_custom_rack": "0"
+        }
+    ]
+}

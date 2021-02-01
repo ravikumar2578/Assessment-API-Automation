@@ -1,0 +1,14 @@
+{
+ "user_id": "10655762",
+ "student_type": "2",
+ "board_id": "180",
+ "class_id": "36",
+ "subject_id": "177",
+ "action": "school_subject_paper_list",
+ "school_id": "37137",
+ "section_id": "1",
+ "section_name": "A", 
+ "paper_type" : "6",
+ "is_subjective_paper_supported":"0",
+  "checksum": "3d8c7cdb78c0e6a67a6ef620f89ff1d5"
+}

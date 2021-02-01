@@ -2,23 +2,23 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-02-02T02:41:58 IST" name="Default suite" finished-at="2021-02-02T02:42:02 IST" duration-ms="3655">
+  <suite started-at="2021-02-02T03:37:50 IST" name="Default suite" finished-at="2021-02-02T03:37:54 IST" duration-ms="3984">
     <groups>
       <group name="smoke">
-        <method signature="TestWiseAnalysisTest.TestWiseAnalysisTest_TC001()[pri:0, instance:com.extrammarks.assessment.apis.tests.TestWiseAnalysis.TestWiseAnalysisTest@2b8d084]" name="TestWiseAnalysisTest_TC001" class="com.extrammarks.assessment.apis.tests.TestWiseAnalysis.TestWiseAnalysisTest"/>
+        <method signature="PracticeTestSubjectPaperListTest.PracticeTestSubjectPaperListTest_TC001()[pri:0, instance:com.extramarks.assessment.apis.tests.PracticeTestSubjectPaperList.PracticeTestSubjectPaperListTest@2b8d084]" name="PracticeTestSubjectPaperListTest_TC001" class="com.extramarks.assessment.apis.tests.PracticeTestSubjectPaperList.PracticeTestSubjectPaperListTest"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2021-02-02T02:41:58 IST" name="Default test" finished-at="2021-02-02T02:42:02 IST" duration-ms="3655">
-      <class name="com.extrammarks.assessment.apis.tests.TestWiseAnalysis.TestWiseAnalysisTest">
-        <test-method is-config="true" signature="setAllureEnvironment()[pri:0, instance:com.extrammarks.assessment.apis.tests.TestWiseAnalysis.TestWiseAnalysisTest@2b8d084]" started-at="2021-02-02T02:41:58 IST" name="setAllureEnvironment" finished-at="2021-02-02T02:41:58 IST" duration-ms="238" status="PASS">
+    <test started-at="2021-02-02T03:37:50 IST" name="Default test" finished-at="2021-02-02T03:37:54 IST" duration-ms="3984">
+      <class name="com.extramarks.assessment.apis.tests.PracticeTestSubjectPaperList.PracticeTestSubjectPaperListTest">
+        <test-method is-config="true" signature="setAllureEnvironment()[pri:0, instance:com.extramarks.assessment.apis.tests.PracticeTestSubjectPaperList.PracticeTestSubjectPaperListTest@2b8d084]" started-at="2021-02-02T03:37:50 IST" name="setAllureEnvironment" finished-at="2021-02-02T03:37:50 IST" duration-ms="250" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setAllureEnvironment -->
-        <test-method signature="TestWiseAnalysisTest_TC001()[pri:0, instance:com.extrammarks.assessment.apis.tests.TestWiseAnalysis.TestWiseAnalysisTest@2b8d084]" started-at="2021-02-02T02:41:58 IST" name="TestWiseAnalysisTest_TC001" finished-at="2021-02-02T02:42:02 IST" duration-ms="3498" status="PASS">
+        <test-method signature="PracticeTestSubjectPaperListTest_TC001()[pri:0, instance:com.extramarks.assessment.apis.tests.PracticeTestSubjectPaperList.PracticeTestSubjectPaperListTest@2b8d084]" started-at="2021-02-02T03:37:51 IST" name="PracticeTestSubjectPaperListTest_TC001" finished-at="2021-02-02T03:37:54 IST" duration-ms="3805" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TestWiseAnalysisTest_TC001 -->
-      </class> <!-- com.extrammarks.assessment.apis.tests.TestWiseAnalysis.TestWiseAnalysisTest -->
+        </test-method> <!-- PracticeTestSubjectPaperListTest_TC001 -->
+      </class> <!-- com.extramarks.assessment.apis.tests.PracticeTestSubjectPaperList.PracticeTestSubjectPaperListTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
