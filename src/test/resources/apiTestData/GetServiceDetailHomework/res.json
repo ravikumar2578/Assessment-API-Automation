@@ -1,0 +1,3139 @@
+{
+    "currentTime": "1612257258",
+    "status": "1",
+    "message": "",
+    "subject": [
+        {
+            "rack_id": "3956",
+            "rack_type_id": "4",
+            "rack_name": "Live Subject New ",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "164492",
+                    "title": "01 Feb Homework 01",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1612188930",
+                    "start_date": "1612189140",
+                    "end_date": "1612189800",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/02/01/10655757/60180d02446c9.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/02/01/10655757/60180d02804a5.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "total_marks": "5",
+                    "obtain_marks": "3",
+                    "feedback": "SDF",
+                    "paper_id": "106907",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1612189327",
+                    "checked_date": "1612189689",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2021/02/01/792456/60180ff8e09cc.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2021/02/01/60180e8fcd61a.jpg",
+                            "media_type": "jpg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "162727",
+                    "title": "smokehw2701",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1611760871",
+                    "start_date": "1611760906",
+                    "end_date": "1611943606",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/27/10655757/601184e70f536.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "10",
+                    "obtain_marks": "9",
+                    "feedback": "feedback test",
+                    "paper_id": "105969",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1611760934",
+                    "checked_date": "1611760983",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2021/01/27/785777/6011855701012.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2021/01/27/601185262d425.jpg",
+                            "media_type": "jpg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "162715",
+                    "title": "timeissue",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1611758918",
+                    "start_date": "1611758937",
+                    "end_date": "1615819737",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/27/10655757/60117d463c4ea.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "105960",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "160768",
+                    "title": "live new subject",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1611325036",
+                    "start_date": "1611325054",
+                    "end_date": "1612104094",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600ade6b591fb.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "2",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600ade6bc2bf9.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "3",
+                    "obtain_marks": "3",
+                    "feedback": "test",
+                    "paper_id": "105078",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1611325088",
+                    "checked_date": "1611325127",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2021/01/22/774531/600adec79ea6e.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2021/01/22/600adea004f43.jpg",
+                            "media_type": "jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rack_id": "177",
+            "rack_type_id": "4",
+            "rack_name": "Science",
+            "rack_icon": "http://stagelearning2.extramarks.com/icon/resources/47.png",
+            "color_code": "#e26484",
+            "is_custom_rack": "0",
+            "homework": [
+                {
+                    "assign_auto_id": "163077",
+                    "title": "PPPP",
+                    "paper_homework_mode": "2",
+                    "assign_date": "1611846718",
+                    "start_date": "1611846960",
+                    "end_date": "1611847560",
+                    "paper_download_url": "",
+                    "paper_media_type": "",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "93059",
+                    "is_subjective_type": "1",
+                    "paper_duration": "10",
+                    "is_ques_time_bound": "2",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "162729",
+                    "title": "hwimagesubj2021",
+                    "paper_homework_mode": "2",
+                    "assign_date": "1611761255",
+                    "start_date": "1611761260",
+                    "end_date": "1611761560",
+                    "paper_download_url": "",
+                    "paper_media_type": "",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "5",
+                    "obtain_marks": "2",
+                    "feedback": "",
+                    "paper_id": "104168",
+                    "is_subjective_type": "2",
+                    "paper_duration": "5",
+                    "is_ques_time_bound": "2",
+                    "attempted_state": "3",
+                    "is_checked": "2",
+                    "attempted_date": "1611761313",
+                    "checked_date": "1611761335",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "160241",
+                    "title": "21 Jan Homework 01",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1611245305",
+                    "start_date": "1611245460",
+                    "end_date": "1611245700",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/21/10655757/6009a6f906c46.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "104263",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "160191",
+                    "title": "hwimagesubj2021",
+                    "paper_homework_mode": "2",
+                    "assign_date": "1611240054",
+                    "start_date": "1611240060",
+                    "end_date": "1611240360",
+                    "paper_download_url": "",
+                    "paper_media_type": "",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "5",
+                    "obtain_marks": "1.5",
+                    "feedback": "",
+                    "paper_id": "104168",
+                    "is_subjective_type": "2",
+                    "paper_duration": "5",
+                    "is_ques_time_bound": "2",
+                    "attempted_state": "3",
+                    "is_checked": "2",
+                    "attempted_date": "1611240157",
+                    "checked_date": "1611240257",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "160170",
+                    "title": "hwimageopj2021",
+                    "paper_homework_mode": "2",
+                    "assign_date": "1611236668",
+                    "start_date": "1611236700",
+                    "end_date": "1611237000",
+                    "paper_download_url": "",
+                    "paper_media_type": "",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "5",
+                    "obtain_marks": "1",
+                    "feedback": "",
+                    "paper_id": "104163",
+                    "is_subjective_type": "1",
+                    "paper_duration": "5",
+                    "is_ques_time_bound": "2",
+                    "attempted_state": "3",
+                    "is_checked": "2",
+                    "attempted_date": "1611240348",
+                    "checked_date": "1611240349",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "160141",
+                    "title": "imagehw2120",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1611232600",
+                    "start_date": "1611232800",
+                    "end_date": "1611319800",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/21/10655757/60097557afeb3.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "15",
+                    "obtain_marks": "5",
+                    "feedback": "test feedback",
+                    "paper_id": "104162",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1611239788",
+                    "checked_date": "1611239951",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2021/01/21/769477/6009920f65944.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2021/01/21/6009916c117fc.png",
+                            "media_type": "png"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "149169",
+                    "title": "PPPP",
+                    "paper_homework_mode": "2",
+                    "assign_date": "1608698167",
+                    "start_date": "1608698220",
+                    "end_date": "1608698820",
+                    "paper_download_url": "",
+                    "paper_media_type": "",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "10",
+                    "obtain_marks": "3",
+                    "feedback": "",
+                    "paper_id": "93059",
+                    "is_subjective_type": "1",
+                    "paper_duration": "10",
+                    "is_ques_time_bound": "2",
+                    "attempted_state": "3",
+                    "is_checked": "2",
+                    "attempted_date": "1608698205",
+                    "checked_date": "1608678407",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "139560",
+                    "title": "QQQQQTEST ",
+                    "paper_homework_mode": "2",
+                    "assign_date": "1607498037",
+                    "start_date": "1607498100",
+                    "end_date": "1607498700",
+                    "paper_download_url": "",
+                    "paper_media_type": "",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "94641",
+                    "is_subjective_type": "2",
+                    "paper_duration": "10",
+                    "is_ques_time_bound": "2",
+                    "attempted_state": "3",
+                    "is_checked": "1",
+                    "attempted_date": "1607498758",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "136311",
+                    "title": "PPPP",
+                    "paper_homework_mode": "2",
+                    "assign_date": "1607080552",
+                    "start_date": "1607080620",
+                    "end_date": "1607081220",
+                    "paper_download_url": "",
+                    "paper_media_type": "",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "10",
+                    "obtain_marks": "2",
+                    "feedback": "",
+                    "paper_id": "93059",
+                    "is_subjective_type": "1",
+                    "paper_duration": "10",
+                    "is_ques_time_bound": "2",
+                    "attempted_state": "3",
+                    "is_checked": "2",
+                    "attempted_date": "1607080646",
+                    "checked_date": "1607060850",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "129281",
+                    "title": "HW LOas Paper",
+                    "paper_homework_mode": "2",
+                    "assign_date": "1606305030",
+                    "start_date": "1606305120",
+                    "end_date": "1606565220",
+                    "paper_download_url": "",
+                    "paper_media_type": "",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "5",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "89856",
+                    "is_subjective_type": "1",
+                    "paper_duration": "10",
+                    "is_ques_time_bound": "2",
+                    "attempted_state": "3",
+                    "is_checked": "2",
+                    "attempted_date": "1608555563",
+                    "checked_date": "1608535766",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "129276",
+                    "title": "HW LOad ",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1606304881",
+                    "start_date": "1606305060",
+                    "end_date": "1606565100",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/11/25/10655757/5fbe4471ad03d.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "89852",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "122803",
+                    "title": "AAAAAAAAAAA",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1605093004",
+                    "start_date": "1605093240",
+                    "end_date": "1605094200",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/11/11/10655757/5fabc68ca63c2.jpeg",
+                    "paper_media_type": "jpeg",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "86799",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "95030",
+                    "title": "tttuuuu",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1600836600",
+                    "start_date": "1600836840",
+                    "end_date": "1600837800",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/09/23/10655757/5f6ad3f85794c.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/09/23/10655757/5f6ad3f884d01.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "71806",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1600836616",
+                    "checked_date": "1600836616",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/09/23/10655757/5f6ad3f884d01.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/09/23/5f6ad4095ebc5.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "95018",
+                    "title": "tttttt",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1600836270",
+                    "start_date": "1600836480",
+                    "end_date": "1600837200",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/09/23/10655757/5f6ad2ae84e3e.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "10",
+                    "obtain_marks": "0",
+                    "feedback": "kjhghj\r\nkjhgfdszdfghj",
+                    "paper_id": "71802",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1600836304",
+                    "checked_date": "1600836498",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/09/23/396890/5f6ad3922fb28.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/09/23/5f6ad2d12aebe.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "58349",
+                    "title": "te3ssds",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1596948942",
+                    "start_date": "1596949200",
+                    "end_date": "1596950100",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/08/09/10655757/5f2f81ce03213.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "50186",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "23517",
+                    "title": "HW 10 july",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1594351595",
+                    "start_date": "1594351663",
+                    "end_date": "1594351663",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/10/20462/5f07dfebb974d.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "20462",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "19544",
+                    "title": "TEST PUSH ON  SUBMISSION",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1593198245",
+                    "start_date": "1593198480",
+                    "end_date": "1593199200",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/27/17965/5ef646a50c846.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/27/17965/5ef646a533f9b.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "17965",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1594025678",
+                    "checked_date": "1594025678",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/27/17965/5ef646a533f9b.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/06/5f02e6ce9fa63.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "18518",
+                    "title": "Norm",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592705150",
+                    "start_date": "1592705400",
+                    "end_date": "1592706300",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16814/5eeec07e591e8_1591548416757.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16814",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "1",
+                    "attempted_date": "1593686110",
+                    "checked_date": "",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/02/5efdb85e99188.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "18517",
+                    "title": "Nonono",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592705122",
+                    "start_date": "1592705340",
+                    "end_date": "1592706600",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16813/5eeec06215740_1591550878294.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "2",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16813/5eeec0621834c_Answer_1591548416757.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16813",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "18516",
+                    "title": "Self eva",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592705080",
+                    "start_date": "1592705340",
+                    "end_date": "1592706000",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16812/5eeec038d5a62_1591548416757.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16812/5eeec038d693a_Answer_1591550878294.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "16812",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1594026498",
+                    "checked_date": "1594026498",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16812/5eeec038d693a_Answer_1591550878294.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/06/5f02ea0244f17.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "17746",
+                    "title": "test paper ios",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592205499",
+                    "start_date": "1592205720",
+                    "end_date": "1592208000",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/15/16130/5ee720bb5ea8f_Simulator_Screen_Shot_-_iPhone_11_-_2020-06-14_at_15.36.19.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16130",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17394",
+                    "title": "hw test",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591425934",
+                    "start_date": "1591426140",
+                    "end_date": "1591512300",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/06/15822/5edb3b8e2df9f_dummy.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/06/15822/5edb3dbeb9e7c_Answer_file-sample_100kB.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15822",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17352",
+                    "title": "test paper 5 home",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591368986",
+                    "start_date": "1591369200",
+                    "end_date": "1591369320",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15789/5eda5d1a4117d_3649.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15789/5eda5df60c26f_Answer_2296.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15789",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17139",
+                    "title": "Test 001 Stage2",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591209105",
+                    "start_date": "1591209300",
+                    "end_date": "1591212720",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/04/15682/5ed7ec91167c7_Screenshot_from_2020-03-15_18-55-29.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15682",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17013",
+                    "title": "CovidHw",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591120468",
+                    "start_date": "1591120620",
+                    "end_date": "1591120740",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/02/15629/5ed692547da97_khmh1an.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/02/15629/5ed6925483d19_Answer_khmh1ps.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15629",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "16937",
+                    "title": "test homework",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591044800",
+                    "start_date": "1591045020",
+                    "end_date": "1591217580",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/02/15590/5ed56ac04c269_dummy.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/02/15590/5ed56ac04d2d8_Answer_Script.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15590",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "16207",
+                    "title": "20 May Homework paper1",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589953882",
+                    "start_date": "1589954100",
+                    "end_date": "1589954880",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14803/5ec4c55a78cbc_14762_paper_with_answer.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "14803",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "9192",
+                    "title": "Home Work  25 AP1",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1587839083",
+                    "start_date": "1587839100",
+                    "end_date": "1587839400",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/25/draft_5/5ea47e263b90b_First_sheet.docx",
+                    "paper_media_type": "docx",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/25/draft_5/5ea47e263c8b4_Answer_First_sheet.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "2",
+                    "obtain_marks": "2",
+                    "feedback": "1asr",
+                    "paper_id": "7455",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1587839159",
+                    "checked_date": "1587839260",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/04/25/3524/5ea4811c33c87_Third_Sheet.docx",
+                            "media_type": "docx"
+                        },
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/04/25/3525/5ea4811c353f7_Assessment_Multilingual_paper_creation_v0.1_17-12-2019.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/04/25/9192/10655762/0_1587839158.pdf",
+                            "media_type": "pdf"
+                        },
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/04/25/9192/10655762/1_1587839159.docx",
+                            "media_type": "docx"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "9189",
+                    "title": "Home Work  25 AP1",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1587838524",
+                    "start_date": "1587838680",
+                    "end_date": "1587839160",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/25/draft_5/5ea47e263b90b_First_sheet.docx",
+                    "paper_media_type": "docx",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/25/draft_5/5ea47e263c8b4_Answer_First_sheet.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "7455",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1597858818",
+                    "checked_date": "1597858818",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/25/draft_5/5ea47e263c8b4_Answer_First_sheet.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/08/19/5f3d64023d521.jpeg",
+                            "media_type": "jpeg"
+                        },
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/08/19/5f3d64025f86a.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "4835",
+                    "title": "Homework-Demo-1",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1586623703",
+                    "start_date": "1586623703",
+                    "end_date": "1589215703",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/11/3008/5e91f4202331a_Screenshot_from_2020-04-10_13-25-45.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "3008",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                }
+            ]
+        },
+        {
+            "rack_id": "3128",
+            "rack_type_id": "4",
+            "rack_name": "Test10A",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "160777",
+                    "title": "22 Jan Homework 003",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1611325292",
+                    "start_date": "1611325500",
+                    "end_date": "1611326100",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600adf6b4adbd.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600adf6bd7e6a.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "105083",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                }
+            ]
+        },
+        {
+            "rack_id": "3953",
+            "rack_type_id": "4",
+            "rack_name": "New Subject 2",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "160703",
+                    "title": "custom test 2",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1611318772",
+                    "start_date": "1611318794",
+                    "end_date": "1612097534",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600ac5f42922e.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600ac5f454e4c.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "105025",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1611318822",
+                    "checked_date": "1611318822",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600ac5f454e4c.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2021/01/22/600ac62669612.png",
+                            "media_type": "png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rack_id": "6",
+            "rack_type_id": "4",
+            "rack_name": "Custom syllabus 004",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "160699",
+                    "title": "22 J Paper 01",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1611318442",
+                    "start_date": "1611318600",
+                    "end_date": "1611319200",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/draft_10655757/600ac4897d1f2.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600ac4aac094c.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "105021",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "122804",
+                    "title": "DDDDDDDDd",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1605093066",
+                    "start_date": "1605093300",
+                    "end_date": "1605094200",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/11/11/10655757/5fabc6ca75ab2.jpeg",
+                    "paper_media_type": "jpeg",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "10",
+                    "obtain_marks": "9",
+                    "feedback": "shshs",
+                    "paper_id": "86800",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1605093125",
+                    "checked_date": "1605093183",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/11/11/606458/5fabc73f01414.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/11/11/5fabc7066f8de.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "106306",
+                    "title": "07 Oct custom homework 01",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1602073435",
+                    "start_date": "1602073620",
+                    "end_date": "1602074400",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/10/07/10655757/5f7db35b0c131.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/10/07/10655757/5f7db35b4b7fd.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "77569",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1602073923",
+                    "checked_date": "1602073923",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/10/07/10655757/5f7db35b4b7fd.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/10/07/5f7db5435113d.png",
+                            "media_type": "png"
+                        },
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/10/07/5f7db54382c67.png",
+                            "media_type": "png"
+                        },
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/10/07/5f7db543af1bb.png",
+                            "media_type": "png"
+                        },
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/10/07/5f7db543d9609.png",
+                            "media_type": "png"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "22281",
+                    "title": "07 Ju Homework paper 002",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1594109974",
+                    "start_date": "1594110000",
+                    "end_date": "1594111200",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/07/19719/5f04301653cf1.docx",
+                    "paper_media_type": "docx",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "19719",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "1",
+                    "attempted_date": "1611577131",
+                    "checked_date": "",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2021/01/25/600eb72b93f57.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "16906",
+                    "title": "01 June Custome syllabus001",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591020601",
+                    "start_date": "1591020840",
+                    "end_date": "1591021200",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/01/15569/5ed50c3953998_P3.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/01/15569/5ed50c3956f35_Answer_P4.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "15569",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1594094012",
+                    "checked_date": "1594094012",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/01/15569/5ed50c3956f35_Answer_P4.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/07/5f03f1bc86d0b.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "16246",
+                    "title": "Abcde",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589967120",
+                    "start_date": "1589967360",
+                    "end_date": "1589967840",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14841/5ec4f910ea71d_Screenshot_20200516-183254.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "14841",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "1",
+                    "attempted_date": "1594115815",
+                    "checked_date": "",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/07/5f0446e7a98af.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "16209",
+                    "title": "20 May Homework paper 2",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589954032",
+                    "start_date": "1589954220",
+                    "end_date": "1589954640",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14805/5ec4c5f03f88d_5ec29803d9041.docx",
+                    "paper_media_type": "docx",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14805/5ec4c5f040956_Answer_14689_paper_with_answer.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "14805",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                }
+            ]
+        },
+        {
+            "rack_id": "3950",
+            "rack_type_id": "4",
+            "rack_name": "newtest2021",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "160698",
+                    "title": "custom test 1",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1611318335",
+                    "start_date": "1611318369",
+                    "end_date": "1612096029",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600ac43f99ada.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "10",
+                    "obtain_marks": "8",
+                    "feedback": "feedback testing",
+                    "paper_id": "105020",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1611318402",
+                    "checked_date": "1611318472",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2021/01/22/774419/600ac4c86c4a2.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2021/01/22/600ac48260de1.jpg",
+                            "media_type": "jpg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "160476",
+                    "title": "customtest1",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1611295304",
+                    "start_date": "1611295320",
+                    "end_date": "1611381960",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600a697815e2d.docx",
+                    "paper_media_type": "docx",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "104847",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                }
+            ]
+        },
+        {
+            "rack_id": "4",
+            "rack_type_id": "4",
+            "rack_name": "sub1",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "48990",
+                    "title": "aaaaA",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1595920220",
+                    "start_date": "1595920440",
+                    "end_date": "1595921100",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/28/10655757/5f1fcf5bafdda.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/28/10655757/5f1fcf5be6329.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "44703",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1597858765",
+                    "checked_date": "1597858765",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/28/10655757/5f1fcf5be6329.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/08/19/5f3d63cdf157b.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rack_id": "5",
+            "rack_type_id": "4",
+            "rack_name": "Science Custom Syllabus 001",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "23751",
+                    "title": "gts user demo",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1594375214",
+                    "start_date": "1594375440",
+                    "end_date": "1594376700",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/10/20613/5f083c2d79dd6.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/10/20613/5f083c2dacef7.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "20613",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1594655412",
+                    "checked_date": "1594655412",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/10/20613/5f083c2dacef7.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/13/5f0c82b41ed4d.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "18622",
+                    "title": "custom test",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592804561",
+                    "start_date": "1592804700",
+                    "end_date": "1592805900",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/22/16953/5ef044d1aad29_ghana.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16953",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17525",
+                    "title": "dummy paper test",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591785828",
+                    "start_date": "1591785840",
+                    "end_date": "1591786380",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/10/15931/5ee0b9641f38e_dummy_pdf.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15931",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17136",
+                    "title": "03 June Custom Homework2",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591206718",
+                    "start_date": "1591206900",
+                    "end_date": "1591207500",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/03/draft_105/5ed7e3367620f_3.1.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/03/draft_105/5ed7e336784d6_Answer_java_assignment.doc",
+                            "media_type": "doc"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15678",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17134",
+                    "title": "02 June Homework1",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591206528",
+                    "start_date": "1591206660",
+                    "end_date": "1591207380",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/03/15676/5ed7e28003a94_1.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/03/15676/5ed7e28004cd4_Answer_3.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15676",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "16248",
+                    "title": "Hhhhhh",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589972040",
+                    "start_date": "1589972280",
+                    "end_date": "1589972640",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14843/5ec50c4876933_Screenshot_20200518-194129.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14843/5ec50c4879060_Answer_Screenshot_20200518-185157.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "14843",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "16245",
+                    "title": "Teest",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589967085",
+                    "start_date": "1589967300",
+                    "end_date": "1589967360",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14840/5ec4f8ed00154_Screenshot_20200516-193656.png",
+                    "paper_media_type": "png",
+                    "answer_push": "2",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14840/5ec4f8ed01189_Answer_Screenshot_20200516-184445.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "14840",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "16173",
+                    "title": "Test Homework 19may20",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589901374",
+                    "start_date": "1589901480",
+                    "end_date": "1589902740",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/19/draft_68/5ec3f81f5f137_animalindex.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/19/draft_68/5ec3f81f61b33_Answer_animalp_bg.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "14765",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "16073",
+                    "title": "19 May Homework paper 1",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589877603",
+                    "start_date": "1589877600",
+                    "end_date": "1589877780",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/19/14671/5ec39b63dcbec_Assessment_Multilingual_paper_creation_v0.1_17-12-2019.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/19/14671/5ec39b63df0d8_Answer_Testing_stagelearning.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "14671",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                }
+            ]
+        },
+        {
+            "rack_id": "193",
+            "rack_type_id": "4",
+            "rack_name": "new 123",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "23602",
+                    "title": "new domain custom ",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1594364338",
+                    "start_date": "1594364400",
+                    "end_date": "1594365300",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/10/20527/5f0811b1cc287.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/10/20527/5f0811b2006e8.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "20527",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1594655485",
+                    "checked_date": "1594655485",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/10/20527/5f0811b2006e8.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/13/5f0c82fd85c55.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "23495",
+                    "title": "dfd",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1594324255",
+                    "start_date": "1594324320",
+                    "end_date": "1594325700",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/10/20450/5f07751f014fb.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "20450",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                }
+            ]
+        },
+        {
+            "rack_id": "180",
+            "rack_type_id": "4",
+            "rack_name": "Subject 123",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "23505",
+                    "title": "hwwww123",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1594325179",
+                    "start_date": "1594325400",
+                    "end_date": "1594326600",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/10/20454/5f0778babfb0e.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/10/20454/5f0778bb05283.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "20454",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1594372296",
+                    "checked_date": "1594372296",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/07/10/20454/5f0778bb05283.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/10/5f0830c83727e.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "18472",
+                    "title": "20 J Homework Paper 5",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592670724",
+                    "start_date": "1592670900",
+                    "end_date": "1592672100",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/20/draft_174/5eee39a8178bf_1.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/20/16796/5eee3a043670a_Answer_4.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16796",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "18419",
+                    "title": "New custom homework",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592656001",
+                    "start_date": "1592656020",
+                    "end_date": "1592656080",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/20/16741/5eee008137fc0_1591548432509.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "2",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/20/16741/5eee008138ed2_Answer_1591278053643.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16741",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17373",
+                    "title": "123 test hw",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591380648",
+                    "start_date": "1591380900",
+                    "end_date": "1592503800",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15807/5eda8aa8deb86_dummy.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15807/5eda8aa8e09b4_Answer_file-sample_100kB.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15807",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17362",
+                    "title": "test test 123",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591372872",
+                    "start_date": "1591372980",
+                    "end_date": "1591459260",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15797/5eda6c485393d_dummy.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15797/5eda6c485492b_Answer_file-sample_100kB.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15797",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                }
+            ]
+        },
+        {
+            "rack_id": "192",
+            "rack_type_id": "4",
+            "rack_name": "custom subject 6june",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "19549",
+                    "title": "27 June Homeworkd 1",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1593198877",
+                    "start_date": "1593198900",
+                    "end_date": "1593199800",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/27/17970/5ef6491d70fea.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "17970",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "1",
+                    "attempted_date": "1594372432",
+                    "checked_date": "",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/10/5f08315084d58.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "17524",
+                    "title": "new test ",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591785344",
+                    "start_date": "1591785360",
+                    "end_date": "1591785660",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/07/15869/5edd192e300d6_WhatsApp_Image_2020-05-26_at_11.15.56.jpeg",
+                    "paper_media_type": "jpeg",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/07/15869/5edd192e3225c_Answer_Cards_PDD_Calling_Scripts_Moratorium_2_0.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15869",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17446",
+                    "title": "new test ",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591548206",
+                    "start_date": "1591548420",
+                    "end_date": "1591548480",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/07/15869/5edd192e300d6_WhatsApp_Image_2020-05-26_at_11.15.56.jpeg",
+                    "paper_media_type": "jpeg",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/07/15869/5edd192e3225c_Answer_Cards_PDD_Calling_Scripts_Moratorium_2_0.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15869",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17417",
+                    "title": "TEST WORKSHEET6MAY",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591457224",
+                    "start_date": "1591457340",
+                    "end_date": "1591457400",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/06/draft_118/5edbb582483f6_Screenshot_from_2020-02-10_16-01-31.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15841",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17395",
+                    "title": "hw test 34",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591426339",
+                    "start_date": "1591426560",
+                    "end_date": "1591599120",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/06/15823/5edb3d230e3cf_dummy.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/06/15823/5edb3d230f38a_Answer_Script.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15823",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                }
+            ]
+        },
+        {
+            "rack_id": "176",
+            "rack_type_id": "4",
+            "rack_name": "Mathematics",
+            "rack_icon": "http://stagelearning2.extramarks.com/icon/resources/46.png",
+            "color_code": "#fd9021",
+            "is_custom_rack": "0",
+            "homework": [
+                {
+                    "assign_auto_id": "19546",
+                    "title": "test homework 27",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1593198473",
+                    "start_date": "1593198524",
+                    "end_date": "1593198524",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/27/17968/5ef647896d45a.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "17968",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "1",
+                    "attempted_date": "1594371994",
+                    "checked_date": "",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/10/5f082f9a44138.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "18610",
+                    "title": "hw normal case",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592802800",
+                    "start_date": "1592802900",
+                    "end_date": "1592846100",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/22/16941/5ef03df0a592a_dummy_pdf.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16941",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "18555",
+                    "title": "Old pattern maths",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592722244",
+                    "start_date": "1592722500",
+                    "end_date": "1592722800",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16854/5eef034432b9c_Screenshot_20200617-180733.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16854",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "18554",
+                    "title": "Pos maths",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592722211",
+                    "start_date": "1592722440",
+                    "end_date": "1592723400",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16853/5eef03235383c_Screenshot_20200617-180716.png",
+                    "paper_media_type": "png",
+                    "answer_push": "2",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16853/5eef032354b8d_Answer_Screenshot_20200616-133809.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16853",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "1",
+                    "attempted_date": "1594372185",
+                    "checked_date": "",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/10/5f08305954115.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "18553",
+                    "title": "Self evaluate maths homework",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592722175",
+                    "start_date": "1592722380",
+                    "end_date": "1592723400",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16852/5eef02ffc3889_Screenshot_20200617-180748.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16852/5eef02ffc609b_Answer_Screenshot_20200617-180653.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "16852",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1594372018",
+                    "checked_date": "1594372018",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16852/5eef02ffc609b_Answer_Screenshot_20200617-180653.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/10/5f082fb27dabb.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "17745",
+                    "title": "test paper ios15",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592205237",
+                    "start_date": "1592205420",
+                    "end_date": "1592208000",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/15/16129/5ee71fb568093_0x0ss.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16129",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17356",
+                    "title": "testhome",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591370123",
+                    "start_date": "1591370280",
+                    "end_date": "1593184500",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15793/5eda618bef9b5_dummy.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15793/5eda618bf0bc5_Answer_dummy_2.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15793",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "16905",
+                    "title": "01 June Homework1",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591020542",
+                    "start_date": "1591020720",
+                    "end_date": "1591021080",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/01/15568/5ed50bfe3e4a6_P5.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15568",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "16189",
+                    "title": "HWOLDSubmission",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589948306",
+                    "start_date": "1589948520",
+                    "end_date": "1589948640",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14781/5ec4af9270d4b_2_–_2.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14781/5ec4af9273301_Answer_2.jpg",
+                            "media_type": "jpg"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "14781",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "15106",
+                    "title": "nnnnn",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589206953",
+                    "start_date": "1589206980",
+                    "end_date": "1589208840",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/11/13668/5eb95fa9a81ff_extramarks.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/11/13668/5eb95fa9aa201_Answer_extramarks.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "13668",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "15103",
+                    "title": "maths",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589206340",
+                    "start_date": "1589206380",
+                    "end_date": "1589208360",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/11/13665/5eb95d441ba51_extramarks.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/11/13665/5eb95d441dcdd_Answer_extramarks.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "13665",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "15099",
+                    "title": "Maths homework",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589204411",
+                    "start_date": "1589204460",
+                    "end_date": "1589205180",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/11/13661/5eb955bb006c1_1.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "13661",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "14862",
+                    "title": "HWMaths",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1589006627",
+                    "start_date": "1589006820",
+                    "end_date": "1589007180",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/09/13419/5eb65123b76e0_Feature-Graphic.png",
+                    "paper_media_type": "png",
+                    "answer_push": "2",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/09/13419/5eb65123b9803_Answer_Feature-Graphic.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "900",
+                    "obtain_marks": "860",
+                    "feedback": "Great",
+                    "paper_id": "13419",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1589006657",
+                    "checked_date": "1589006715",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/05/09/7868/5eb6517bc68da_WhatsApp_Image_2020-04-09_at_1.38.58_PM.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/05/09/7868/SubmittedAnswer_10655762_HWMaths_2020-05-09_12:14:17.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "9899",
+                    "title": "Testing Purpose Home work",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1588095838",
+                    "start_date": "1588095900",
+                    "end_date": "1588096200",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/28/8210/5ea8687109437_Assessement_error_while_create_schedule.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/28/8210/5ea868710a5ce_Answer_SRS_Batch_strength_v1.doc",
+                            "media_type": "doc"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "8210",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "9896",
+                    "title": "Testing Purpose Home work",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1588095089",
+                    "start_date": "1588095300",
+                    "end_date": "1588095900",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/28/8210/5ea8687109437_Assessement_error_while_create_schedule.png",
+                    "paper_media_type": "png",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/28/8210/5ea868710a5ce_Answer_SRS_Batch_strength_v1.doc",
+                            "media_type": "doc"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "8210",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                }
+            ]
+        },
+        {
+            "rack_id": "13",
+            "rack_type_id": "4",
+            "rack_name": "Physical Education",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "18167",
+                    "title": "New twst",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592499190",
+                    "start_date": "1592499420",
+                    "end_date": "1592499480",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/18/16492/5eeb9bf6d7216_WhatsApp_Image_2020-04-29_at_14.39.04.jpeg",
+                    "paper_media_type": "jpeg",
+                    "answer_push": "2",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/18/16492/5eeb9bf6d93d2_Answer_WhatsApp_Image_2020-04-29_at_14.39.04.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16492",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "1",
+                    "attempted_date": "1593676152",
+                    "checked_date": "",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/02/5efd917856f8c.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rack_id": "14",
+            "rack_type_id": "4",
+            "rack_name": "New Recorded",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "18164",
+                    "title": "Test new hw ios",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592499045",
+                    "start_date": "1592499240",
+                    "end_date": "1592499300",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/18/16489/5eeb9b6511fc6_5edbdb56c431b_WhatsApp_Image_2020-05-26_at_11.15.56.jpeg",
+                    "paper_media_type": "jpeg",
+                    "answer_push": "2",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/18/16489/5eeb9b6513016_Answer_personalized_opt_1.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16489",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "1",
+                    "attempted_date": "1593676179",
+                    "checked_date": "",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/02/5efd9193d610c.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rack_id": "200",
+            "rack_type_id": "4",
+            "rack_name": "Custom Subject Nikhil",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "17928",
+                    "title": "hindi homework",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592377827",
+                    "start_date": "1592378280",
+                    "end_date": "1592382300",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/17/16272/5ee9c1e32a4b1_Script.docx",
+                    "paper_media_type": "docx",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16272",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "1",
+                    "attempted_date": "1594372390",
+                    "checked_date": "",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/10/5f0831261b0e7.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "17927",
+                    "title": "english homework",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592377777",
+                    "start_date": "1592378280",
+                    "end_date": "1592382900",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/17/16271/5ee9c1b19a0b5_Video_thumb.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16271",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17424",
+                    "title": "paper six 7june20",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591475812",
+                    "start_date": "1591476000",
+                    "end_date": "1591478880",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/07/draft_122/5edbfe48c421c_Script1.docx",
+                    "paper_media_type": "docx",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/07/draft_122/5edbfe48c5d2f_Answer_ScienceQuestionPaper.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15848",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                }
+            ]
+        },
+        {
+            "rack_id": "322",
+            "rack_type_id": "4",
+            "rack_name": "NewSubject",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "17702",
+                    "title": "test paper ios",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1592139461",
+                    "start_date": "1592139660",
+                    "end_date": "1592139720",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/14/draft_133/5ee61eb828df7_Simulator_Screen_Shot_-_iPhone_11_-_2020-06-14_at_15.36.19.png",
+                    "paper_media_type": "png",
+                    "answer_push": "0",
+                    "paper_answer": [
+                        {
+                            "file_path": "",
+                            "media_type": ""
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "16111",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "1",
+                    "attempted_date": "1593683495",
+                    "checked_date": "",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/02/5efdae274db9e.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "17624",
+                    "title": "homework 12 june",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591975539",
+                    "start_date": "1591975727",
+                    "end_date": "1592666687",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/12/16030/5ee39e73d37be_download.jpg",
+                    "paper_media_type": "jpg",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/12/16030/5ee39e73d52e0_Answer_gif.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "16030",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1593683554",
+                    "checked_date": "1593683554",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/12/16030/5ee39e73d52e0_Answer_gif.png",
+                            "media_type": "png"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/02/5efdae63020bc.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                },
+                {
+                    "assign_auto_id": "17601",
+                    "title": "homework NewSubject",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591965201",
+                    "start_date": "1591965420",
+                    "end_date": "1592656380",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/12/16007/5ee376117ba7a_dummy.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/12/16007/5ee376117ca59_Answer_file-sample_100kB.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "0",
+                    "obtain_marks": "0",
+                    "feedback": "",
+                    "paper_id": "16007",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "3",
+                    "attempted_date": "1593684914",
+                    "checked_date": "1593684914",
+                    "file_detail": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/12/16007/5ee376117ca59_Answer_file-sample_100kB.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "student_submitted_response": [
+                        {
+                            "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/02/5efdb3b2de1c9.jpeg",
+                            "media_type": "jpeg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rack_id": "176",
+            "rack_type_id": "4",
+            "rack_name": "new subject",
+            "rack_icon": "http://stagelearning2.extramarks.com/school_lms/public/assess_new/images/default_icon.png",
+            "color_code": "#FE7B35",
+            "is_custom_rack": "1",
+            "homework": [
+                {
+                    "assign_auto_id": "17355",
+                    "title": "test hw 2",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591370019",
+                    "start_date": "1591370220",
+                    "end_date": "1591456380",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15792/5eda612355260_dummy.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15792/5eda61235625d_Answer_dummy_2.pdf",
+                            "media_type": "pdf"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15792",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                },
+                {
+                    "assign_auto_id": "17353",
+                    "title": "test home work",
+                    "paper_homework_mode": "1",
+                    "assign_date": "1591369475",
+                    "start_date": "1591369595",
+                    "end_date": "1592060555",
+                    "paper_download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15790/5eda5f03d6e18_dummy.pdf",
+                    "paper_media_type": "pdf",
+                    "answer_push": "1",
+                    "paper_answer": [
+                        {
+                            "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/05/15790/5eda5f03d807f_Answer_file-sample_100kB.docx",
+                            "media_type": "docx"
+                        }
+                    ],
+                    "total_marks": "",
+                    "obtain_marks": "",
+                    "feedback": "",
+                    "paper_id": "15790",
+                    "is_subjective_type": "1",
+                    "paper_duration": "",
+                    "is_ques_time_bound": "",
+                    "attempted_state": "",
+                    "is_checked": "",
+                    "attempted_date": "",
+                    "checked_date": "",
+                    "file_detail": []
+                }
+            ]
+        }
+    ]
+}

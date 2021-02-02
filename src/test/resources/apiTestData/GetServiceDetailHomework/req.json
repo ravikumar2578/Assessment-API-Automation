@@ -1,0 +1,15 @@
+{
+    "student_id": "10655762",
+    "student_type": "2",
+    "board_id": "180",
+    "class_id": "36",
+    "action": "homework_details_v2",
+    "service_id": "18",
+    "user_subject_list": "177",
+    "custom_subject_flag" : "1",
+    "school_id": "37137",
+    "section_id": "1",
+    "section_name": "A",
+    "timezone" : "Asia/Kolkata",
+    "checksum" : "96c9ffde9358f4d49e58c17ec72497d1"
+}

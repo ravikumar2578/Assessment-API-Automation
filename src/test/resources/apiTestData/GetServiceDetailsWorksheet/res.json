@@ -1,0 +1,1080 @@
+{
+    "currentTime": "1612258508",
+    "status": "1",
+    "message": "",
+    "assigned": [
+        {
+            "assign_auto_id": "162733",
+            "title": "wsimagesubj2021",
+            "paper_homework_mode": "2",
+            "assign_date": "1611761835",
+            "start_date": "1611808440",
+            "end_date": "1612061280",
+            "paper_id": "104171",
+            "is_subjective_type": "2",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "Chemical Reactions and Equations",
+                    "leaf_rack_id": "1102",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                },
+                {
+                    "leaf_rack_name": "Human Eye and Colourful World",
+                    "leaf_rack_id": "1109",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "5",
+            "is_ques_time_bound": "2",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "",
+                    "media_type": ""
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "160401",
+            "title": "ghfc jk",
+            "paper_homework_mode": "1",
+            "assign_date": "1611288811",
+            "start_date": "1611289020",
+            "end_date": "1611290100",
+            "paper_id": "104698",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "",
+                    "leaf_rack_id": "0",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "1",
+            "paper_answer": [
+                {
+                    "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600a50eb20bb6.docx",
+                    "media_type": "docx"
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600a50eac84b9.pdf",
+                    "media_type": "pdf"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "160397",
+            "title": "aewwr",
+            "paper_homework_mode": "1",
+            "assign_date": "1611288505",
+            "start_date": "1611288720",
+            "end_date": "1611290400",
+            "paper_id": "104686",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "",
+                    "leaf_rack_id": "0",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "1",
+            "paper_answer": [
+                {
+                    "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600a4fb8bbb92.pdf",
+                    "media_type": "pdf"
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/10655757/600a4fb876747.pdf",
+                    "media_type": "pdf"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "129284",
+            "title": "WS Load sheet",
+            "paper_homework_mode": "1",
+            "assign_date": "1606305957",
+            "start_date": "1606306200",
+            "end_date": "1606566600",
+            "paper_id": "89858",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "",
+                    "leaf_rack_id": null,
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/11/25/10655757/5fbe48a59dc28.pdf",
+                    "media_type": "pdf"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "125745",
+            "title": "19 Nov Objective test 001",
+            "paper_homework_mode": "2",
+            "assign_date": "1605789729",
+            "start_date": "1605789780",
+            "end_date": "1605790080",
+            "paper_id": "88251",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "Thermal Properties of Matter",
+                    "leaf_rack_id": "972",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                },
+                {
+                    "leaf_rack_name": "Light - Reflection and Refraction",
+                    "leaf_rack_id": "1106",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                },
+                {
+                    "leaf_rack_name": "How do Organisms Reproduce?",
+                    "leaf_rack_id": "1108",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                },
+                {
+                    "leaf_rack_name": "Human Eye and Colourful World",
+                    "leaf_rack_id": "1109",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                },
+                {
+                    "leaf_rack_name": "Morphology of Flowering Plants",
+                    "leaf_rack_id": "1205",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "5",
+            "is_ques_time_bound": "2",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "",
+                    "media_type": ""
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "18515",
+            "title": "Nor",
+            "paper_homework_mode": "1",
+            "assign_date": "1592705040",
+            "start_date": "1592705280",
+            "end_date": "1592706000",
+            "paper_id": "16811",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16811/5eeec0106c52a_1591548416757.jpg",
+                    "media_type": "jpg"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "18514",
+            "title": "No self",
+            "paper_homework_mode": "1",
+            "assign_date": "1592705014",
+            "start_date": "1592705220",
+            "end_date": "1592706000",
+            "paper_id": "16810",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "2",
+            "paper_answer": [
+                {
+                    "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16810/5eeebff6c081e_Answer_1591550878294.jpg",
+                    "media_type": "jpg"
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16810/5eeebff6bf90e_1591343168746.jpg",
+                    "media_type": "jpg"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "18050",
+            "title": "worksheet1",
+            "paper_homework_mode": "1",
+            "assign_date": "1592461993",
+            "start_date": "1592548380",
+            "end_date": "1592548680",
+            "paper_id": "16394",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/18/16394/5eeb06cc2243e_Video_thumb.png",
+                    "media_type": "png"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "18048",
+            "title": "worksheet2",
+            "paper_homework_mode": "1",
+            "assign_date": "1592461046",
+            "start_date": "1592461260",
+            "end_date": "1592466720",
+            "paper_id": "16396",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/18/16396/5eeb06f6c7a00_Video_thumb.png",
+                    "media_type": "png"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "18046",
+            "title": "worksheet1",
+            "paper_homework_mode": "1",
+            "assign_date": "1592461004",
+            "start_date": "1592461260",
+            "end_date": "1592465040",
+            "paper_id": "16394",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/18/16394/5eeb06cc2243e_Video_thumb.png",
+                    "media_type": "png"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "17418",
+            "title": "Paper one 7june20",
+            "paper_homework_mode": "1",
+            "assign_date": "1591474711",
+            "start_date": "1591474800",
+            "end_date": "1591477740",
+            "paper_id": "15842",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "1",
+            "paper_answer": [
+                {
+                    "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/07/draft_119/5edbf9e825cfc_Answer_Script.docx",
+                    "media_type": "docx"
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/07/draft_119/5edbf97422293_ScienceQuestionPaper.pdf",
+                    "media_type": "pdf"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "17140",
+            "title": "04 june worksheet1",
+            "paper_homework_mode": "1",
+            "assign_date": "1591209228",
+            "start_date": "1591209420",
+            "end_date": "1591209720",
+            "paper_id": "15683",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "1",
+            "paper_answer": [
+                {
+                    "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/04/draft_106/5ed7ed04f0b03_Answer_Second_sheet.docx",
+                    "media_type": "docx"
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/04/draft_106/5ed7ed04ef46a_First_sheet.docx",
+                    "media_type": "docx"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "16872",
+            "title": "Worksheet-Demo1",
+            "paper_homework_mode": "1",
+            "assign_date": "1591007035",
+            "start_date": "1591007040",
+            "end_date": "1591007340",
+            "paper_id": "3007",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/11/3007/5e91f3d23105b_Screenshot_from_2020-04-11_21-29-43.png",
+                    "media_type": "png"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "16188",
+            "title": "Old Worksheet",
+            "paper_homework_mode": "1",
+            "assign_date": "1589948203",
+            "start_date": "1589948280",
+            "end_date": "1589948640",
+            "paper_id": "14780",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "1",
+            "paper_answer": [
+                {
+                    "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14780/5ec4af2ba9458_Answer_store2.png",
+                    "media_type": "png"
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/05/20/14780/5ec4af2ba820d_unnamed.png",
+                    "media_type": "png"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "9901",
+            "title": "Testing Purpose Worksheet",
+            "paper_homework_mode": "1",
+            "assign_date": "1588095879",
+            "start_date": "1588095960",
+            "end_date": "1588096260",
+            "paper_id": "8211",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "2",
+            "paper_answer": [
+                {
+                    "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/28/8211/5ea86945dcd40_Answer_74786_paper_with_answer.pdf",
+                    "media_type": "pdf"
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/28/8211/5ea86945db48e_INDO_Assess_Go_To_School_API_Doc_2.doc",
+                    "media_type": "doc"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "9897",
+            "title": "Testing Purpose Worksheet",
+            "paper_homework_mode": "1",
+            "assign_date": "1588095301",
+            "start_date": "1588095480",
+            "end_date": "1588095900",
+            "paper_id": "8211",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "2",
+            "paper_answer": [
+                {
+                    "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/28/8211/5ea86945dcd40_Answer_74786_paper_with_answer.pdf",
+                    "media_type": "pdf"
+                }
+            ],
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/04/28/8211/5ea86945db48e_INDO_Assess_Go_To_School_API_Doc_2.doc",
+                    "media_type": "doc"
+                }
+            ]
+        }
+    ],
+    "result": [
+        {
+            "assign_auto_id": "160721",
+            "title": "wsimagesubj2021",
+            "paper_homework_mode": "2",
+            "assign_date": "1611319880",
+            "start_date": "1611319920",
+            "end_date": "1611406980",
+            "paper_id": "104171",
+            "is_subjective_type": "2",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "Chemical Reactions and Equations",
+                    "leaf_rack_id": "1102",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                },
+                {
+                    "leaf_rack_name": "Human Eye and Colourful World",
+                    "leaf_rack_id": "1109",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "5",
+            "is_ques_time_bound": "2",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "total_marks": "2",
+            "obtain_marks": "1",
+            "feedback": "",
+            "attempted_state": "3",
+            "is_checked": "2",
+            "attempted_date": "1611320031",
+            "checked_date": "1611320085",
+            "file_detail": []
+        },
+        {
+            "assign_auto_id": "160713",
+            "title": "test save as draft 44",
+            "paper_homework_mode": "1",
+            "assign_date": "1611319623",
+            "start_date": "1611319638",
+            "end_date": "1612098138",
+            "paper_id": "105034",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": null,
+                    "leaf_rack_id": null,
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "1",
+            "paper_answer": [
+                {
+                    "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/draft_10655757/600ac90abf81e.png",
+                    "media_type": "png"
+                }
+            ],
+            "attempted_state": "3",
+            "attempted_date": "1611319661",
+            "checked_date": "1611319661",
+            "total_marks": "0",
+            "obtain_marks": "0",
+            "feedback": "",
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2021/01/22/draft_10655757/600ac90abf81e.png",
+                    "media_type": "png"
+                }
+            ],
+            "student_submitted_response": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2021/01/22/600ac96d333cb.pdf",
+                    "media_type": "pdf"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "160195",
+            "title": "wsimagesubj2021",
+            "paper_homework_mode": "2",
+            "assign_date": "1611240742",
+            "start_date": "1611240761",
+            "end_date": "1611241061",
+            "paper_id": "104171",
+            "is_subjective_type": "2",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "Chemical Reactions and Equations",
+                    "leaf_rack_id": "1102",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                },
+                {
+                    "leaf_rack_name": "Human Eye and Colourful World",
+                    "leaf_rack_id": "1109",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "5",
+            "is_ques_time_bound": "2",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "total_marks": "2",
+            "obtain_marks": "1",
+            "feedback": "",
+            "attempted_state": "3",
+            "is_checked": "2",
+            "attempted_date": "1611240821",
+            "checked_date": "1611240884",
+            "file_detail": []
+        },
+        {
+            "assign_auto_id": "160193",
+            "title": "wsimageobj2021",
+            "paper_homework_mode": "2",
+            "assign_date": "1611240651",
+            "start_date": "1611240660",
+            "end_date": "1611240960",
+            "paper_id": "104170",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "Chemical Reactions and Equations",
+                    "leaf_rack_id": "1102",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "5",
+            "is_ques_time_bound": "1",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "total_marks": "5",
+            "obtain_marks": "2",
+            "feedback": "",
+            "attempted_state": "3",
+            "is_checked": "2",
+            "attempted_date": "1611240702",
+            "checked_date": "1611240703",
+            "file_detail": []
+        },
+        {
+            "assign_auto_id": "160146",
+            "title": "wsimage2021",
+            "paper_homework_mode": "1",
+            "assign_date": "1611233274",
+            "start_date": "1611233520",
+            "end_date": "1611321000",
+            "paper_id": "104169",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "",
+                    "leaf_rack_id": "0",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "attempted_state": "3",
+            "attempted_date": "1611240447",
+            "checked_date": "1611240547",
+            "total_marks": "8",
+            "obtain_marks": "8",
+            "feedback": "test feedback",
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2021/01/21/769483/600994622d6c3.png",
+                    "media_type": "png"
+                }
+            ],
+            "student_submitted_response": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2021/01/21/600993ffdbf21.pdf",
+                    "media_type": "pdf"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "129283",
+            "title": "WS Load paper",
+            "paper_homework_mode": "2",
+            "assign_date": "1606305620",
+            "start_date": "1606305660",
+            "end_date": "1606306062",
+            "paper_id": "89857",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "Chemical Reactions and Equations",
+                    "leaf_rack_id": "1102",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "10",
+            "is_ques_time_bound": "2",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "total_marks": "5",
+            "obtain_marks": "1",
+            "feedback": "",
+            "attempted_state": "3",
+            "is_checked": "2",
+            "attempted_date": "1608698562",
+            "checked_date": "1608678765",
+            "file_detail": []
+        },
+        {
+            "assign_auto_id": "125819",
+            "title": "19 Nov Objective test 001",
+            "paper_homework_mode": "2",
+            "assign_date": "1605803987",
+            "start_date": "1605804000",
+            "end_date": "1605804300",
+            "paper_id": "88251",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "Thermal Properties of Matter",
+                    "leaf_rack_id": "972",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                },
+                {
+                    "leaf_rack_name": "Light - Reflection and Refraction",
+                    "leaf_rack_id": "1106",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                },
+                {
+                    "leaf_rack_name": "How do Organisms Reproduce?",
+                    "leaf_rack_id": "1108",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                },
+                {
+                    "leaf_rack_name": "Human Eye and Colourful World",
+                    "leaf_rack_id": "1109",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                },
+                {
+                    "leaf_rack_name": "Morphology of Flowering Plants",
+                    "leaf_rack_id": "1205",
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "5",
+            "is_ques_time_bound": "2",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "total_marks": "5",
+            "obtain_marks": "1",
+            "feedback": "",
+            "attempted_state": "3",
+            "is_checked": "2",
+            "attempted_date": "1605804078",
+            "checked_date": "1605804079",
+            "file_detail": []
+        },
+        {
+            "assign_auto_id": "95369",
+            "title": "test trtrtrtrtrt",
+            "paper_homework_mode": "1",
+            "assign_date": "1600848137",
+            "start_date": "1600848206",
+            "end_date": "1600848291",
+            "paper_id": "71994",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "1",
+            "paper_answer": [
+                {
+                    "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/09/23/10655757/5f6b0109b8bf5.png",
+                    "media_type": "png"
+                }
+            ],
+            "attempted_state": "3",
+            "attempted_date": "1600848250",
+            "checked_date": "1600848250",
+            "total_marks": "0",
+            "obtain_marks": "0",
+            "feedback": "",
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/09/23/10655757/5f6b0109b8bf5.png",
+                    "media_type": "png"
+                }
+            ],
+            "student_submitted_response": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/09/23/5f6b017a577d2.jpeg",
+                    "media_type": "jpeg"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "95350",
+            "title": "test image test",
+            "paper_homework_mode": "1",
+            "assign_date": "1600847071",
+            "start_date": "1600847113",
+            "end_date": "1600847141",
+            "paper_id": "71979",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "attempted_state": "3",
+            "attempted_date": "1600847149",
+            "checked_date": "1600848601",
+            "total_marks": "10",
+            "obtain_marks": "10",
+            "feedback": "test",
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/09/23/397686/5f6b02d90da78.jpeg",
+                    "media_type": "jpeg"
+                }
+            ],
+            "student_submitted_response": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/09/23/5f6afd2dc1680.jpeg",
+                    "media_type": "jpeg"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "18513",
+            "title": "Self evaluatuon",
+            "paper_homework_mode": "1",
+            "assign_date": "1592704975",
+            "start_date": "1592705100",
+            "end_date": "1592705700",
+            "paper_id": "16809",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "1",
+            "paper_answer": [
+                {
+                    "file_path": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16809/5eeebfcf3f612_Answer_1591550878294.jpg",
+                    "media_type": "jpg"
+                }
+            ],
+            "attempted_state": "3",
+            "attempted_date": "1593691270",
+            "checked_date": "1593691270",
+            "total_marks": "0",
+            "obtain_marks": "0",
+            "feedback": "",
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet/2020/06/21/16809/5eeebfcf3f612_Answer_1591550878294.jpg",
+                    "media_type": "jpg"
+                }
+            ],
+            "student_submitted_response": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/07/02/5efdcc865098e.jpeg",
+                    "media_type": "jpeg"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "15100",
+            "title": "Science paper",
+            "paper_homework_mode": "1",
+            "assign_date": "1589204550",
+            "start_date": "1589204700",
+            "end_date": "1589205300",
+            "paper_id": "13662",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "attempted_state": "2",
+            "attempted_date": "1589205027",
+            "checked_date": "1589205362",
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/05/11/8196/SubmittedAnswer_10655762_Science_paper_2020-05-11_19:20:27.jpeg",
+                    "media_type": "jpeg"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "14861",
+            "title": "Science",
+            "paper_homework_mode": "1",
+            "assign_date": "1589006541",
+            "start_date": "1589006640",
+            "end_date": "1589007180",
+            "paper_id": "13418",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "attempted_state": "3",
+            "attempted_date": "1589006714",
+            "checked_date": "1589006798",
+            "total_marks": "100",
+            "obtain_marks": "22",
+            "feedback": "daddad",
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/05/09/7870/5eb651ceedeb6_Askyourdoubt_6June2019.pdf",
+                    "media_type": "pdf"
+                }
+            ],
+            "student_submitted_response": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_result/2020/05/09/7870/SubmittedAnswer_10655762_Science_2020-05-09_12:15:14.jpeg",
+                    "media_type": "jpeg"
+                }
+            ]
+        }
+    ],
+    "attempted": [
+        {
+            "assign_auto_id": "164495",
+            "title": "01 Feb Weekly Test 02",
+            "paper_homework_mode": "1",
+            "assign_date": "1612189118",
+            "start_date": "1612189380",
+            "end_date": "1612189800",
+            "paper_id": "106910",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": null,
+                    "leaf_rack_id": null,
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "attempted_state": "1",
+            "attempted_date": "1612189436",
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2021/02/01/60180efcf3a18.jpg",
+                    "media_type": "jpg"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "106302",
+            "title": "07 Sep Worksheet 01",
+            "paper_homework_mode": "1",
+            "assign_date": "1602073246",
+            "start_date": "1602073440",
+            "end_date": "1602074400",
+            "paper_id": "77566",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [
+                {
+                    "leaf_rack_name": "",
+                    "leaf_rack_id": null,
+                    "leaf_rack_type_id": 5,
+                    "leaf_rack_type_name": "chapter"
+                }
+            ],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "attempted_state": "1",
+            "attempted_date": "1602073764",
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/10/07/5f7db4a4c0fb4.pdf",
+                    "media_type": "pdf"
+                },
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/10/07/5f7db4a4ebd0b.docx",
+                    "media_type": "docx"
+                },
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/10/07/5f7db4a515628.png",
+                    "media_type": "png"
+                }
+            ]
+        },
+        {
+            "assign_auto_id": "23518",
+            "title": "HS 10 July",
+            "paper_homework_mode": "1",
+            "assign_date": "1594351650",
+            "start_date": "1594351660",
+            "end_date": "1594351660",
+            "paper_id": "20463",
+            "is_subjective_type": "1",
+            "leaf_rack_info": [],
+            "paper_duration": "",
+            "is_ques_time_bound": "",
+            "answer_push": "0",
+            "paper_answer": [
+                {
+                    "file_path": "",
+                    "media_type": ""
+                }
+            ],
+            "attempted_state": "1",
+            "attempted_date": "1597858855",
+            "file_detail": [
+                {
+                    "download_url": "https://d2woimef7kai42.cloudfront.net/stagelearning2/assess_new/content_data/worksheet_data/2020/08/19/5f3d6427acb50.jpeg",
+                    "media_type": "jpeg"
+                }
+            ]
+        }
+    ]
+}
